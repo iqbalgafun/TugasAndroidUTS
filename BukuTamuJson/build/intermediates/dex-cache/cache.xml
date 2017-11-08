@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Iqbal Fauzi P\Downloads\Compressed\Crud Json\BukuTamuJson\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\Iqbal Fauzi P\Downloads\Compressed\Crud Json\BukuTamuJson\build\intermediates\pre-dexed\debug\android-support-v4_6f04333217c9989bc91c8ae5052d03cfa44ef448.jar" />
+    </item>
+
+</items>
